@@ -1,31 +1,31 @@
-# Design
+Design
 
-## Online Student Registration System
+Online Student Registration System
 
-  ### Architecture design
+Architecture design
 
-  ### Logical design
+Logical design
 
-    #### ER diagram
+ER diagram
 
-    #### Usecase diagram
+Usecase diagram
 
-    #### Usecase description
+Usecase description
 
-    #### Dataflow diagrams
+Dataflow diagrams
 
-      ##### Level 0
+Level 0
 
-      ##### Level 1
+Level 1
 
-  ### Physical design
+Physical design
 
-    #### Database design
+Database design
 
-    ##### Data dictionary
+Data dictionary
 
-  ### System Implementation
+System Implementation
 
-  ### Testing
+Testing
 
-  ### Evaluation
+Evaluation
